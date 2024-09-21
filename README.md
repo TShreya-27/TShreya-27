@@ -1,6 +1,5 @@
 - ✌️✌️ Hi, I’m @TShreya-27
--  My interests are Competitive programming, movies and dance.
--  I’m currently learning Full Stack development.
+-  I’m currently learning AI and ML models.
 -  I’m looking to collaborate on tech which helps people.
 -  How to reach me linkedin.com/in/-shreya-tiwari.
 
