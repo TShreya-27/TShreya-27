@@ -1,8 +1,6 @@
-- ✌️✌️ Hi, I’m @TShreya-27
+-  Hi, I’m @TShreya-27
 -  I’m currently learning AI and ML models.
 -  I’m looking to collaborate on tech which helps people.
--  How to reach me linkedin.com/in/-shreya-tiwari.
-
 <!---
 TShreya-27/TShreya-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
